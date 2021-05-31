@@ -7,7 +7,7 @@
 *   @file       main.c
 *   @date       2021.05.31
 *   @author     Jinhwan.Jung
-*   @version    1.1
+*   @version    1.2
 *   @brief      This file starts at first when the program is run. @n
 *               This file was created for testing with the C compiler(MS Visual Studio). @n
 *               The purpose of this project is to implement the UDS without and Embeded system. @n
