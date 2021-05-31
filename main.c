@@ -5,7 +5,7 @@
 *                                   (c) Copyright 2021 - 2041, CloseEye Study
 *                                               All Rights Reserved
 *   @file       main.c
-*   @date       2021.05.01
+*   @date       2021.05.31
 *   @author     Jinhwan.Jung
 *   @version    1.0
 *   @brief      This file starts at first when the program is run. @n
